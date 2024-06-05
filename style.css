@@ -344,3 +344,17 @@ u {
     display: flex;
     justify-content: space-between;
 }
+
+.header__bot {
+    background-color: #e0dfdf;
+    height: 68px;
+    display: flex;
+    align-items: center;
+}
+
+.header__list {
+    display: flex;
+    align-items: center;
+    list-style-type: disclosure-closed;
+    gap: 40px;
+}
